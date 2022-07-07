@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @chrisyalamov
 - 👀 I’m **interested** in 
-  -  Backend— Node.js, Next.js, building APIs with GraphQL and OpenAPI, MongoDB, neo4j
+  -  Backend— Node.js, Deno, Next.js, building APIs with GraphQL and OpenAPI, MongoDB, neo4j
   -  Frontend— React, PostCSS, TailwindCSS
   -  Developing low- and no-code tools
 - 🌱 I'm **currently learning** about test-driven development, web accessibility and UI/UX design
