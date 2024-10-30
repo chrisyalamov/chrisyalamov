@@ -1,11 +1,13 @@
 # 👋 Hi, I’m @chrisyalamov
-- 👀 I’m **interested** in 
+- 👀 I’m **interested** in
+  -  Systems develoment— event sourcing and event-driven architecture; microservices
+  -  Cloud— DevOps, Infrastructure-as-Code
   -  Backend— Serverless, building APIs with GraphQL and OpenAPI, MongoDB, neo4j
-  -  Frontend— React (Next.js), Remix, Qwik, TailwindCSS
-  -  Developing low- and no-code tools
+  -  Frontend— React, Remix, TailwindCSS
+  -  Developing low- and no-code platforms
 - 🌱 I'm **currently learning** about test-driven development, web accessibility and UI/UX design
-- 🌱 I **want to learn** more about Rust, containerisation technologies, CI/CD, cross-platform apps (e.g. using ⚛️ Electron, Xamarin, React Native)
-- 📫 You can reach me via my [website](https://chrisyalamov.space), through my [Twitter](https://twitter.com/chrisyalamov), [LinkedIn](https://linkedin.com/in/chrisyalamov) or by emailing me at [hello@chrisyalamov.space](mailto:hello@chrisyalamov.space)!
+- 🌱 I **want to learn** more about Go, containerisation technologies, CI/CD pipelines, cross-platform apps (e.g. using ⚛️ Electron, Xamarin, React Native)
+- 📫 You can reach me via [Twitter](https://twitter.com/chrisyalamov), [LinkedIn](https://linkedin.com/in/chrisyalamov) or by emailing me at [hello@chrisyalamov.space](mailto:hello@chrisyalamov.space)!
 
 ---
 
@@ -18,6 +20,8 @@ A TypeScript library which helps implement an OAuth2 Authorization Token Grant f
 
 ### [Sinte](https://github.com/Revantpoint/sinte)
 Part of a small side project which I hope to expand and make public at some point in the near future. Sinte is a tool for running user-defined workflows— a set of steps, defined in a JSON schema. Each step is executed in a V8 isolate and the workflow orchestrator offers basic flow-control capabilities (branching and looping).
+
+*Currently reworking this project*
 
 ### Other projects
 - [Portfolio](https://github.com/chrisyalamov/portfolio_website) | Retired version of my portfolio website, written in React and Next.js
