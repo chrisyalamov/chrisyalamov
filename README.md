@@ -1,13 +1,17 @@
+> [!NOTE]
+> I am currently running a research project on no-/low-code development paltforms, as part of my dissertation. If you have ever used any kind of low-code platform, I'd love to hear from you! You can find more information about my study and get in touch with me [via my website](https://chrisyalamov.space/research).
+
+
 # 👋 Hi, I’m @chrisyalamov
 - 👀 I’m **interested** in
-  -  Systems develoment— event sourcing and event-driven architecture; microservices
-  -  Cloud— DevOps, Infrastructure-as-Code
-  -  Backend— Serverless, building APIs with GraphQL and OpenAPI, MongoDB, neo4j
+  -  Architecture— event sourcing and event-driven architecture; microservices
+  -  Cloud— DevOps, Infrastructure-as-Code and serverless
+  -  Backend— building and securing APIs
   -  Frontend— React, Remix, TailwindCSS
-  -  Developing low- and no-code platforms
-- 🌱 I'm **currently learning** about test-driven development, web accessibility and UI/UX design
-- 🌱 I **want to learn** more about Go, containerisation technologies, CI/CD pipelines, cross-platform apps (e.g. using ⚛️ Electron, Xamarin, React Native)
-- 📫 You can reach me via [Twitter](https://twitter.com/chrisyalamov), [LinkedIn](https://linkedin.com/in/chrisyalamov) or by emailing me at [hello@chrisyalamov.space](mailto:hello@chrisyalamov.space)!
+  -  Developing low- and no-code platforms that let non-tech people create their own solutions/applications
+- 🌱 I'm **currently learning** about database internals (working through CMU's [Introduction to Database Systems course](https://15445.courses.cs.cmu.edu/spring2025/))
+- 🌱 I **want to learn** more about Go
+- 📫 You can reach me via [LinkedIn](https://linkedin.com/in/chrisyalamov) or by emailing me at [hello@chrisyalamov.space](mailto:hello@chrisyalamov.space)!
 
 ---
 
